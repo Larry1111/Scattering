@@ -7,6 +7,6 @@ The programming language is python. The simulation requires the installation of 
 ## Procedure
 
 ## Graphs and Figures
-![Gaspard Rice Plot](Figures/Gaspard Rice Plot.png)
+![Gaspard Rice Plot](Figures/GaspardRicePlot.png "Gaspard Rice Plot")
 ## Discussion
 
