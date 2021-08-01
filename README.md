@@ -6,7 +6,7 @@ Classical chaotic scattering is a type of scattering where no quantum effect is 
 The programming language is python. The simulation requires the installation of VPython.
 ## Procedure
 
-## Graphs and Figures
+## Results
 The following shows the simulation of Gaspard Rice scattering
 ![Gaspard Rice Plot](Figures/GaspardRicePlot.png "Gaspard Rice Plot")
 ![Rutherford Scattering](Figures/Rutherford_Scattering.png "Gaspard Rice Plot")
