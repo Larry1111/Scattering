@@ -8,7 +8,6 @@ The programming language is python. The simulation requires the installation of 
 
 ## Results
 The following shows the simulation of Gaspard Rice scattering
-![Gaspard Rice Plot](Figures/GaspardRicePlot.png "Gaspard Rice Plot")
-![Rutherford Scattering](Figures/Rutherford_Scattering.png "Gaspard Rice Plot")
+![Rutherford Scattering](Figures/Rutherford_scattering.png "Rutherford scattering")![Rutherford Plot](Figures/Rutherford_plot.png "Rutherford plot")
 ## Discussion
 
