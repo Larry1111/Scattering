@@ -13,6 +13,7 @@ The programming language is python. The simulation requires the installation of 
 ## Discussion
 
 ## Citation
-[1]: https://aip.scitation.org/doi/pdf/10.1063/1.168549
-[2]: https://dournac.org/info/chaotic_scattering
+[1] : https://aip.scitation.org/doi/pdf/10.1063/1.168549
+
+[2] : https://dournac.org/info/chaotic_scattering
 
