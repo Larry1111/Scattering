@@ -11,6 +11,9 @@ The programming language is python. The simulation requires the installation of 
 ![Rutherford Scattering](Figures/Rutherford_scattering.png "Rutherford scattering")![Rutherford Plot](Figures/Rutherford_plot.png "Rutherford plot")
 
 ## Discussion
+The results from the simulation of Gaspard-Rice system were comparable to the standard results from early publications. However, as the plot was zoomed in, the plot started to deviate dramatically from the standard plot. The inaccuracy might be due to the insufficient data size since 100000 datapoints were used in [1], but only 2500 data points were used in figure 1b. Furthermore, the code could still be more efficient as several hours were required to generate plots with more data points, and the dt variable for which the movements of the particles depend on might also cause inaccuracy in the trajectory of the particles as they bounce off from the hard disks. 
+## Conclusion
+In this respository, a basic program simulating Gaspard Rice system and Rutherford scattering was demonstrated. The sensitivity of classical chaotic scattering to initial conditions such as impact parameter, number, and location of the barriers was explored. 
 
 ## Citation
 [1] : https://aip.scitation.org/doi/pdf/10.1063/1.168549
