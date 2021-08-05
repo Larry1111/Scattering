@@ -23,12 +23,15 @@ for i in range_of_particles:
 Create dt that is used for the movement of the particles
 
 ```dt=0.00001```
-
-Detect collsions between particles and hard disks,
-
+Refer to single_harddisk.pynb
+Control when you want the particle to stop,
 ```
 while(t<4):
     rate(1000)
+```
+
+Detect collsions between particles and hard disks,
+```
     for particle in particles:
         if mag(particle.pos-particle2.pos)<particle.dis:
 ```
