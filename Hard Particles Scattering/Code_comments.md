@@ -42,7 +42,7 @@ Make the particle bounce off the hard disk,
             particle.F=norm(particle.pos-particle2.pos)
             particle.mom = particle.mom+particle.F
         particle.pos = particle.pos + (particle.mom/particle.m)*dt
-        t=t+dt
+    t=t+dt
 ```
  
 Creat ang function that defines the scattering angle,
