@@ -1,4 +1,4 @@
-Refer to single_harddisk.pynb
+Refer to Single_Hard_Disk.ipynb
 
 Create a hard disk,
 
