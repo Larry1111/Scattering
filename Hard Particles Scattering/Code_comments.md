@@ -1,3 +1,5 @@
+Refer to single_harddisk.pynb
+
 Create a hard disk,
 
 ```particle2=sphere(pos=vec(0,0,0), radius=0.1, color=color.black)```
